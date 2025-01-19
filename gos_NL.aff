@@ -9,14 +9,31 @@ TRY eanortidlskugmhvwbzpjcföyèòìxéëóEANORTIDLSKUGMHVWBZPJCFÖYÈÒÌXÉË
 
 KEY qwertyuiop|asdfghjkl|zxcvbnm|ïö|íó|ùìò
 
-REP 7
+REP 24
 REP ai oi
 REP aai ai
+REP ai aai
 REP schr sr
 REP oa ao
 REP f ph
 REP k c
 REP ks x
+REP a aa
+REP aa a
+REP v f
+REP f v
+REP u ö
+REP ö u
+REP z s
+REP s z
+REP ò o
+REP eg ig
+REP oe uu
+REP uu oe
+REP ern eren
+REP eln elen
+REP elk elek
+REP ij ai
 
 BREAK 1
 BREAK -
@@ -26,3 +43,4 @@ MAP ﬁ(fi)
 
 NOSUGGEST hemmen
 NOSUGGEST goat
+NOSUGGEST stoat
