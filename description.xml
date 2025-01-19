@@ -13,6 +13,9 @@
         <name lang="de">Gronings Niederdeutsches Wörterliste und Rechtschreibung</name>
         <name lang="gos">Grunnegs Nedersaksiese woordenliest en spellingcontrole</name>
      </display-name>
+     <icon>
+        <default xlink:href="icon.png"/>
+    </icon>
      <platform value="all" />
      <extension-description>
         <src xlink:href="description-en.txt" lang="en"/>
