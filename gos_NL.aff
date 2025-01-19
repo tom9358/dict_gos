@@ -1,0 +1,28 @@
+# Affix file for Gronings Low Saxon
+# Created by Tom Brand tom9358 at gmailcom
+# Version 0.1
+# 3 January 2025
+# License: GPL (looser license can be discussed)
+
+SET UTF-8
+TRY eanortidlskugmhvwbzpjcföyèòìxéëóEANORTIDLSKUGMHVWBZPJCFÖYÈÒÌXÉËÓ
+
+KEY qwertyuiop|asdfghjkl|zxcvbnm|ïö|íó|ùìò
+
+REP 7
+REP ai oi
+REP aai ai
+REP schr sr
+REP oa ao
+REP f ph
+REP k c
+REP ks x
+
+BREAK 1
+BREAK -
+
+MAP 1
+MAP ﬁ(fi)
+
+NOSUGGEST hemmen
+NOSUGGEST goat
