@@ -7,8 +7,8 @@ Barebones hunspell only needs a dictionary file to work (the affix file can be e
 Relevant link:
 - https://web.archive.org/web/20130810100226/http://www.suares.com/index.php?page_id=25&news_id=233
 
-I have some idea of what .aff files can do, but haven't looked into it in depth
+I have some idea of what .aff files can do, but haven't looked into it in depth. I tried to add some rules but haven't tested them.
 Relevant link:
 - https://manpages.ubuntu.com/manpages/focal/man5/hunspell.5.html
 
-LibreOffice requires .oxt files, which are apparently just .zip files. They do need more files - I've never made a LibreOffice extension so I'm still figuring those out.
+LibreOffice requires .oxt files, which are apparently just .zip files. I've managed to make one! I should investigate how to add it to LibreOffice's extension store and to some other places (I saw some Debian and Fedora things, Firefox, maybe Google Chrome?) since no clue how to do that, but apart from that I might pause the project here for now. Although I do intend to improve at least the wordlist in the future.
