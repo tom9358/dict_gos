@@ -1,13 +1,27 @@
 Gronings Low Saxon Spelling Dictionary - 2025
 
-After installing the .oxt extension, set your spell-checking language to Gronings in LibreOffice:
-Menu Tools -> Language -> all text
-There you can pick Gronings.
+Version 0.1
+
+The wordlist is still far from perfect!
+
+After installing the .oxt extension, set your spell-checking language to Gronings in LibreOffice.
+The following works:
+In the menu: Format -> Character...
+Then set Language: to gos (Netherlands) {gos-NL}
+Tested and verified that this works with LibreOffice version 24.8.4.2 (X86_64) on Windows 11.
+
+The following is how it should go, but this doesn't work yet:
+Menu Tools -> Language -> For All Text -> More... -> Languages and Locales -> Writing Aids
+There you should be able to pick Gronings.
+It looks like the language doesn't appear there yet..
+I suspect it might have to do with the name Gronings not yet being present in some kind of list.
+This is something for version 0.2!
 
 My github is where I keep the latest versions of all files:
 https://github.com/tom9358/dict_gos/
 
 For a Gronings - Dutch bidirectional dictionary, check
 https://www.woordwaark.nl/
+
 A text about spelling rules:
 https://woordwaark.housing.rug.nl/woordwaark/spelling.pdf
