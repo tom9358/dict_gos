@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:lo="http://libreoffice.org/extensions/description/2011">
+     <version value="0.1"/>
+     <identifier value="com.github.tom9538.dictionary.gos_NL"/>
+     <publisher>
+        <name xlink:href="https://github.com/tom9358/" lang="en">Tom Brand</name>
+     </publisher>
+     <display-name>
+        <name lang="en">Gronings Low Saxon spelling dictionary</name>
+        <name lang="nl">Gronings Nedersaksisch woordenlijst en spellingcontrole</name>
+        <name lang="de">Gronings Niederdeutsches Wörterliste und Rechtschreibung</name>
+        <name lang="gos">Grunnegs Nedersaksiese woordenliest en spellingcontrole</name>
+     </display-name>
+     <platform value="all" />
+     <extension-description>
+        <src xlink:href="description-en.txt" lang="en"/>
+        <!-- <src xlink:href="description-nl.txt" lang="nl"/>
+        <src xlink:href="description-gos.txt" lang="gos"/> -->
+     </extension-description>
+</description>
