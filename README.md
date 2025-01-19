@@ -1,0 +1,1 @@
+This repository contains the files for my goal to make an extension for LibreOffice using Hunspell for Gronings Low Saxon (ISO 639-3: gos). I am still figuring out how to do that - contributions and suggestions are welcome!
