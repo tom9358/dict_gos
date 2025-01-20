@@ -1,3 +1,4 @@
+[![Leesmij Nederlands](https://img.shields.io/badge/Leesmij-Nederlands-blue)](LEESMIJ.md)
 ### The LibreOffice extension has been accepted by the extension store admins and is now available here! https://extensions.libreoffice.org/en/extensions/show/99299
 
 
