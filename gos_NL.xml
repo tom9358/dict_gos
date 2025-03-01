@@ -30,9 +30,9 @@
   </LC_INFO>
   <LC_CTYPE ref="nl_NL">
   <LC_FORMAT ref="nl_NL">
-  <LC_COLLATION ref="en_US"/>
-  <LC_SEARCH ref="en_US"/>
-  <LC_INDEX ref="en_US"/>
+  <LC_COLLATION ref="nl_NL"/>
+  <LC_SEARCH ref="nl_NL"/>
+  <LC_INDEX ref="nl_NL"/>
   <LC_CALENDAR>
     <Calendar unoid="gregorian" default="true">
       <DaysOfWeek>
@@ -153,7 +153,7 @@
     </Calendar>
   </LC_CALENDAR>
   <LC_CURRENCY ref="nl_NL">
-  <LC_TRANSLITERATION ref="en_US"/>
+  <LC_TRANSLITERATION ref="nl_NL"/>
   <LC_MISC>
     <BreakIteratorRules>
       <EditMode/>
@@ -177,6 +177,6 @@
       <quarter4Abbreviation>K4</quarter4Abbreviation>
     </ReservedWords>
   </LC_MISC>
-  <LC_NumberingLevel ref="en_US"/>
-  <LC_OutLineNumberingLevel ref="en_US"/>
+  <LC_NumberingLevel ref="nl_NL"/>
+  <LC_OutLineNumberingLevel ref="nl_NL"/>
 </Locale>
