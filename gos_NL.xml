@@ -21,7 +21,7 @@
   <LC_INFO>
     <Language>
       <LangID>gos</LangID>
-      <DefaultName>Gronings</DefaultName> <!-- this is the English name right, not the native name? Otherwise, it should be Grunnegs. -->
+      <DefaultName>Gronings</DefaultName>
     </Language>
     <Country>
       <CountryID>NL</CountryID>
