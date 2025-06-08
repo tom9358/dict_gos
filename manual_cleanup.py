@@ -85,7 +85,10 @@ if __name__ == "__main__":
         # (r'y', "woorden met 'y'"),
         # (r'tjie$', "woorden met 'tjie' op het einde"),
         # (r'ae', "woorden met 'ae'"),
-        (r'_', "woorden met '_'"),
+        # (r'_', "woorden met '_'"),
+        # (r'^([bcdfghjklmnpqrstvwxyz])\1{1,}', "woorden met 2 of meer opeenvolgende identieke medeklinkers aan het begin"),
+        # (r'([bcdfghjklmnpqrstvwxyz])\1{2,}', "woorden met 3 of meer opeenvolgende identieke medeklinkers"),
+        (r'^([bcdfghjklmnpqrstvwxyz]+)\1{1,}$', "woorden zonder klinkers"),
     ]
 
 
