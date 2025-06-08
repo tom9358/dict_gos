@@ -85,6 +85,7 @@ if __name__ == "__main__":
         # (r'y', "woorden met 'y'"),
         # (r'tjie$', "woorden met 'tjie' op het einde"),
         # (r'ae', "woorden met 'ae'"),
+        (r'_', "woorden met '_'"),
     ]
 
 
