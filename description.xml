@@ -2,7 +2,7 @@
 <description xmlns="http://openoffice.org/extensions/description/2006"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:lo="http://libreoffice.org/extensions/description/2011">
-     <version value="0.1"/>
+     <version value="0.2.1"/>
      <identifier value="com.github.tom9538.dictionary.gos_NL"/>
      <publisher>
         <name xlink:href="https://github.com/tom9358/" lang="en">Tom Brand</name>
